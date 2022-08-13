@@ -1,5 +1,3 @@
-23
-
 git init .
 
 git rm -rf .git
