@@ -32,3 +32,10 @@ How to create tag , you can create two
 git tag tag_name
 # git tag -a tag_name -m "Any comment"
 git push origin tag_name
+
+Creating branch
+git branch ( for local )
+git branch -r ( for remote server )
+git branch -a ( all branch local and remote )
+git checkout branch_name
+git checkout - ( switch origin/main to other branch , otherbranch to main)
