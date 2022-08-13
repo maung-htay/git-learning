@@ -50,3 +50,5 @@ Gui -> goto pull request tab -> do step by step
 it will change ui but need to git pull from main in command line
 Command -> git merge from_branch ( it will update local machine )
 git push ( to update remote server )
+
+121
