@@ -20,6 +20,9 @@ git show commitId
 * Commit လုပ်ပြီး မှာ ထပ်ပြီး ပြန်ထည့်ထာဆိုရင်
 git diff
 
-Commit test
+Commit ပဲ ဖြစ်ဖြစ် add ပြီးသားဖြစ်ဖြစ် restore လုပ်ရင် ရတယ်
+
+push မလုပ်သေးပဲ နဲ့ ခနန commit လုပ်ရင် commit id အများကြီးထွက်လာမယ် အဲ့ ကြောင့် --amend ကို သုံးရတယ်
+
 
 
