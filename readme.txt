@@ -20,5 +20,6 @@ git show commitId
 * Commit လုပ်ပြီး မှာ ထပ်ပြီး ပြန်ထည့်ထာဆိုရင်
 git diff
 
+Commit test
 
 
