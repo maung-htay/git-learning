@@ -15,6 +15,7 @@ git push -u origin `main`
 
 How to see git show
 git log
+git log --oneline
 git show commitId
 
 * Commit လုပ်ပြီး မှာ ထပ်ပြီး ပြန်ထည့်ထာဆိုရင်
