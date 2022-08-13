@@ -18,4 +18,6 @@ git show commitId
 
 * Commit လုပ်ပြီး မှာ ထပ်ပြီး ပြန်ထည့်ထာဆိုရင်
 git diff
+ပြန် အပ် ပြန် commit လုပ်လည်းရတယ်
+
 
