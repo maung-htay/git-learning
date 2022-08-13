@@ -46,3 +46,5 @@ git push -u origin feature-a
 
 Merge
 branch တစ်ခုကနေ branch တစ်ခု ဆီက ဟာကို merge လုပ်မယ်
+Gui -> goto pull request tab -> do step by step
+it will change ui but need to git pull from main in command line
