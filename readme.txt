@@ -27,3 +27,5 @@ push မလုပ်သေးပဲ နဲ့ ခနန commit လုပ်ရ�
 Github ပေါ်ကို တင်တော့မယ် ဆိုရင် github မှာ repository တစ်ခုေဆာက်မယ်
 git branch
 git branch -M main
+
+dfd
