@@ -32,3 +32,16 @@ How to create tag , you can create two
 git tag tag_name
 # git tag -a tag_name -m "Any comment"
 git push origin tag_name
+
+Creating branch
+git branch ( for local )
+git branch -r ( for remote server )
+git branch -a ( all branch local and remote )
+git branch -d branch_name
+git checkout -b branch_name
+git checkout branch_name
+git checkout - ( switch origin/main to other branch , otherbranch to main)
+git push -u origin feature-a
+
+Merge
+branch တစ်ခုကနေ branch တစ်ခု ဆီက ဟာကို merge လုပ်မယ်
