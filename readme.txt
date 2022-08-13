@@ -37,6 +37,8 @@ Creating branch
 git branch ( for local )
 git branch -r ( for remote server )
 git branch -a ( all branch local and remote )
+git branch -d branch_name
+git checkout -b branch_name
 git checkout branch_name
 git checkout - ( switch origin/main to other branch , otherbranch to main)
 git push -u origin feature-a
