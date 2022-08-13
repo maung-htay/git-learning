@@ -42,3 +42,6 @@ git checkout -b branch_name
 git checkout branch_name
 git checkout - ( switch origin/main to other branch , otherbranch to main)
 git push -u origin feature-a
+
+Merge
+branch တစ်ခုကနေ branch တစ်ခု ဆီက ဟာကို merge လုပ်မယ်
