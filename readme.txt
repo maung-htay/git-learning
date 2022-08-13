@@ -39,3 +39,4 @@ git branch -r ( for remote server )
 git branch -a ( all branch local and remote )
 git checkout branch_name
 git checkout - ( switch origin/main to other branch , otherbranch to main)
+git push -u origin feature-a
