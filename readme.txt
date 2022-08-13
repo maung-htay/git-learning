@@ -28,4 +28,7 @@ Github ပေါ်ကို တင်တော့မယ် ဆိုရင် g
 git branch
 git branch -M main
 
-dfd
+How to create tag
+git tag tag_name
+git tag -a tag_name -m "Any comment"
+git push origin tag_name
